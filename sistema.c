@@ -1,5 +1,9 @@
+//coño brayan falta todo aksddkjasdkjd
+
 #include <stdio.h>
+
 char entradaInterfaz[100];
+
 int main() {
     do{
     printf("1. Proceso de fabricacion\n");
